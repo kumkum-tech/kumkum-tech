@@ -50,10 +50,9 @@
 <p align="left">
   <a href="https://github.com/kumkum-tech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-kumkum--tech-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/kumkum-rastogi-98849129" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kumkum%20Rastogi-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/kumkum-rastogi-98849129a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Kumkum%20Rastogi-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 </p>
 
 ---
@@ -61,11 +60,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumkum-tech&show_icons=true&locale=en&hide_border=true" alt="kumkum-tech" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=kumkum-tech&show_icons=true&locale=en&hide_border=true" alt="kumkum-tech" /> -->
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumkum-tech&layout=compact&hide_border=true" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats./vercel.app/api/top-langs/?username=kumkum-tech&layout=compact&hide_border=true" alt="Top Languages" /> -->
 </p>
 
 <p align="left">
