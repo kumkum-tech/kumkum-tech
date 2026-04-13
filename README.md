@@ -39,12 +39,6 @@
 
 ---
 
-## 🚀 Projects
-
-> 💡 *Coming soon — check back for featured projects!*
-
----
-
 ## 🤝 Connect with Me
 
 <p align="left">
